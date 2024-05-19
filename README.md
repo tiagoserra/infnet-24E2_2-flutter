@@ -13,25 +13,25 @@ Este projeto foi desenvolvido como parte da disciplina "[24E2_2] Desenvolvimento
 ## Capturas de Tela
 
 ### Tela Inicial
-![Home - iPhone 15 Pro Max](./images/Home - iPhone 15 Pro Max.png)
+![Home - iPhone 15 Pro Max](images/Home%20-%20iPhone%2015%20Pro%20Max.png)
 
 ### Menu
-![Home - Menu - iPhone 15 Pro Max](./images/Home - Menu - iPhone 15 Pro Max.png)
+![Home - Menu - iPhone 15 Pro Max](images/Home%20-%20Menu%20-%20iPhone%2015%20Pro%20Max.png)
 
 ### Adicionar Nova Tarefa
-![Home - Novo - iPhone 15 Pro Max](./images/Home - Novo - iPhone 15 Pro Max.png)
+![Home - Novo - iPhone 15 Pro Max](images/Home%20-%20Novo%20-%20iPhone%2015%20Pro%20Max.png)
 
 ### Adicionar Tarefa - Adicionar Dados
-![Tarefa - Add - Dados - iPhone 15 Pro Max](./images/Tarefa - Add - Dados - iPhone 15 Pro Max.png)
+![Tarefa - Add - Dados - iPhone 15 Pro Max](images/Tarefa%20-%20Add%20-%20Dados%20-%20iPhone%2015%20Pro%20Max.png)
 
 ### Adicionar Tarefa - Adicionar Data
-![Tarefa - Add - Data - iPhone 15 Pro Max](./images/Tarefa - Add - Data - iPhone 15 Pro Max.png)
+![Tarefa - Add - Data - iPhone 15 Pro Max](images/Tarefa%20-%20Add%20-%20Data%20-%20iPhone%2015%20Pro%20Max.png)
 
 ### Adicionar Tarefa
-![Tarefa - Add - iPhone 15 Pro Max](./images/Tarefa - Add - iPhone 15 Pro Max.png)
+![Tarefa - Add - iPhone 15 Pro Max](images/Tarefa%20-%20Add%20-%20iPhone%2015%20Pro%20Max.png)
 
 ### Detalhes da Tarefa
-![Tarefa - Detalhes - iPhone 15 Pro Max](./images/Tarefa - Detalhes - iPhone 15 Pro Max.png)
+![Tarefa - Detalhes - iPhone 15 Pro Max](images/Tarefa%20-%20Detalhes%20-%20iPhone%2015%20Pro%20Max.png)
 
 ## Como Executar
 
